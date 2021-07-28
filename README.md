@@ -21,7 +21,7 @@ We recommend Laragon as a one-stop solution to get started with a local developm
 
 ## Problem Statement
 
-You have to design the landing page for a corporate website using WordPress. A visual design of the landing page has been provided in the `mockups` folder. Download the mockups here: [https://github.com/RenderbitTechnologies/WordPress-Developer-Exercise/archive/refs/heads/main.zip](https://github.com/RenderbitTechnologies/WordPress-Developer-Exercise/archive/refs/heads/main.zip)
+You have to design the landing page for a corporate website using WordPress. A visual design of the landing page has been provided in the `mockups` folder. Download the mockups here: [GitHub](https://github.com/RenderbitTechnologies/WordPress-Developer-Exercise/archive/refs/heads/main.zip)
 
 All the text and images on the website should be fully editable from the WordPress admin panel. We recommend that you use Custom Post Types in WordPress to implement some of the home page functionality (such as portfolio items). You can implement CPTs using a custom theme/plugin, or using an existing third-party plugin such as CPT UI: [https://wordpress.org/plugins/custom-post-type-ui/](https://wordpress.org/plugins/custom-post-type-ui/)
 
@@ -86,7 +86,7 @@ The fonts used in the design are as follows:
 
 Feel free to use font sizes as you think best as per the visual design.
 
-The images & icons used in the visual design can be found folder-wise under the `resources` folder. You can download all the resources here: [https://github.com/RenderbitTechnologies/WordPress-Developer-Exercise/archive/refs/heads/main.zip](https://github.com/RenderbitTechnologies/WordPress-Developer-Exercise/archive/refs/heads/main.zip)
+The images & icons used in the visual design can be found folder-wise under the `resources` folder. You can download all the resources here: [GitHub](https://github.com/RenderbitTechnologies/WordPress-Developer-Exercise/archive/refs/heads/main.zip)
 
 You can use any other free stock images in your design as you think best as per the visual design. You can find free stock images here: [https://unsplash.com/](https://unsplash.com/)
 
@@ -101,7 +101,7 @@ You are free to use any libraries, frameworks & tools which you think will be us
 1. You have to design the home page only.
 2. You can design the website using a custom WordPress theme, or on top of any free existing WordPress theme.
 3. Do not use a paid WordPress theme or nulled/cracked WordPress theme as your starting point for the website design.
-4. You can use any theme development framework (such as Elementor) for the website design.
+4. You can use any free visual design/theme development framework (such as Elementor or Visual Composer) for the website design. However, do not use any paid visual design framework such as TagDiv Composer, WPBakery Page Builder or Elementor Pro for the starting point of your design.
 5. Ensure that your design is mobile-responsive.
 
 ## Bonus Credits
