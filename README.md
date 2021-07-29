@@ -100,9 +100,10 @@ You are free to use any libraries, frameworks & tools which you think will be us
 
 1. You have to design the home page only.
 2. You can design the website using a custom WordPress theme, or on top of any free existing WordPress theme.
-3. Do not use a paid WordPress theme or nulled/cracked WordPress theme as your starting point for the website design.
-4. You can use any free visual design/theme development framework (such as Elementor or Visual Composer) for the website design. However, do not use any paid visual design framework such as TagDiv Composer, WPBakery Page Builder or Elementor Pro for the starting point of your design.
-5. Ensure that your design is mobile-responsive.
+3. **Do not** use a paid WordPress theme or nulled/cracked WordPress theme as your starting point for the website design.
+4. You can use any free visual design/theme development framework (such as Elementor or Visual Composer) for the website design.
+5. **Do not** use any paid visual design framework such as TagDiv Composer, WPBakery Page Builder or Elementor Pro for the starting point of your design.
+6. Ensure that your design is mobile-responsive.
 
 ## Bonus Credits
 
